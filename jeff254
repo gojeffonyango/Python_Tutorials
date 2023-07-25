@@ -1,0 +1,6 @@
+j = 2000000
+f = 3000000
+if f>j:
+ print("fadi is richer than jeff")
+else:
+  print("jeff is richer than fadi")
